@@ -13,4 +13,4 @@ J-Packaging formats
 K-Behaviour pack internals 
 L-Scripting 
 
-Link-> github.com/Shahid-Shaikh02/Minecraft-Bedrock-apk-root-/releases/tag/
+Link-> [Check The Releases v1.0.0](https://github.com/Shahid-Shaikh02/Minecraft-Bedrock-apk-root-/releases/tag/v1.0.0)
